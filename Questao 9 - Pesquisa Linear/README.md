@@ -1,4 +1,3 @@
-"
 # Questão 9
 ## Conteudo
 - Codigo fonte em C++ no arquivo questao9.cpp
@@ -6,4 +5,3 @@
 ## Forma de Usar
 - O programa ira imprimir na tela dois exemplos de execução da função mySearch,
  desenvolvida para o exercicio
-"
