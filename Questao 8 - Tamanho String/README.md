@@ -1,4 +1,3 @@
-"
 # Questão 8
 ## Conteudo
 - Codigo fonte em C++ no arquivo questao8.cpp
@@ -6,4 +5,3 @@
 ## Forma de Usar
 - Será solicitado para o usuario digitar algo
 - O programa imprimirá na tela o tamanho da string digitada
-"

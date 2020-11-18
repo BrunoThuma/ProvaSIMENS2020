@@ -5,6 +5,7 @@ using namespace std;
 // Usar como parametro o ponteiro da string passada
 // dessa forma podemos alterala sem usar segundo buffer
 void invert(string &ptrString){
+    // So precisamos percorrer a string ate a metade
     for(int i = 0; i < (ptrString.size()/2); i++){
         // Armazenar o char na ultima posicao em variavel temporaria
         char temp = ptrString[ptrString.size()-(i + 1)];
